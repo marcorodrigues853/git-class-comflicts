@@ -1,3 +1,9 @@
 SE VISTE ISTO, JÁ FOSTE!
 
+<<<<<<< HEAD
 Criaste este conflito...
+=======
+
+
+boom boom bom boom bagtatas com atum
+>>>>>>> 84a192dfe4f23d8485d34c7908b2735d74a47fe3
