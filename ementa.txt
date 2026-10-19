@@ -1,1 +1,10 @@
-dfsgfdsgfsdgssssa
+dfsgfdsgfsdgssssaMENU: 
+
+FRANCESINHA
+BACALHAU COM NATAS
+BOLO DO CACO
+------------------
+COMMIT
+PUSH
+GIT
+GITHUB
