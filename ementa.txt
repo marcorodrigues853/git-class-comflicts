@@ -1,4 +1,15 @@
-dfsgfdsgfsdgsMENU: 
+dfsgfdsgfsdgs
+MENU: 
+
+FRANCESINHA
+BACALHAU COM NATAS
+BOLO DO CACO
+------------------
+COMMIT
+PUSH
+GIT
+GITHUB
+gggggggMENU: 
 
 FRANCESINHA
 BACALHAU COM NATAS
