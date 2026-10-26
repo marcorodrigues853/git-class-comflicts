@@ -1,0 +1,16 @@
+# .github/workflows/verificar.yml
+name: Verificações
+on: [push, pull_request]
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: README existe
+        run: test -f README.md
+      - name: Sem console.log
+        run: |
+          if grep -rn "console.log" --include="*.js" .; then
+            echo "::error::Remove os console.log"
+            exit 1
+          fi
